@@ -15,6 +15,8 @@ const listaPokemons = [
   { id: 133, nome: 'Eevee', tipo: 'Normal', cor: 'from-amber-200/80 to-stone-500/80' },
   { id: 137, nome: 'Porygon', tipo: 'Normal', cor: 'from-slate-200/80 to-gray-600/80' },
   { id: 143, nome: 'Snorlax', tipo: 'Normal', cor: 'from-slate-200/80 to-gray-600/80' },
+  { id: 147, nome: 'Dratini', tipo: 'Água', cor: 'from-cyan-400/80 to-blue-600/80' },
+  { id: 152, nome: 'Chikorita', tipo: 'Planta', cor: 'from-green-400/80 to-lime-600/80' },
   { id: 155, nome: 'Cyndaquil', tipo: 'Fogo', cor: 'from-orange-400/80 to-red-600/80' },
   { id: 158, nome: 'Totodile', tipo: 'Água', cor: 'from-cyan-400/80 to-blue-600/80' },
   { id: 192, nome: 'Sunflora', tipo: 'Planta', cor: 'from-yellow-400/80 to-amber-600/80' },
@@ -33,7 +35,7 @@ const listaPokemons = [
   { id: 650, nome: 'Chespin', tipo: 'Planta', cor: 'from-green-400/80 to-lime-600/80' },
   { id: 653, nome: 'Fennekin', tipo: 'Fogo', cor: 'from-orange-400/80 to-red-600/80' },
   { id: 656, nome: 'Froakie', tipo: 'Água', cor: 'from-cyan-400/80 to-blue-600/80' },
-  { id: 659, nome: 'Fletchling', tipo: 'Fogo', cor: 'from-orange-400/80 to-red-600/80' },
+  { id: 659, nome: 'Bunnelby', tipo: 'Normal', cor: 'from-slate-200/80 to-gray-600/80' },
 ];
 
 const LARGURA_CARTA = 150;
